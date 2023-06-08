@@ -1,7 +1,7 @@
-# useThrottle
+# cluster
 ---
 
-```useThrottle```
+```mongo```
 
 ---
 
